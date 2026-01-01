@@ -66,7 +66,7 @@ server.port=2330[Optional] <br>
 # 🌱 Project Screenshots
 
 ### 🏠 Homepage
-![Homepage Screenshot](attachments/Tj2nVNd6i7vM5uM76ijjD.jpeg)
+Screenshot 2026-01-01 220036.png
 
 ### 🔑 Login Page
 ![Login Page Screenshot](attachments/4tHAKJYhRfB6vugkTUtKg.png)
