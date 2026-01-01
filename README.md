@@ -69,10 +69,10 @@ server.port=2330[Optional] <br>
 
 
 ### 🔑 Login Page
-![Login Page Screenshot](attachments/4tHAKJYhRfB6vugkTUtKg.png)
+
 
 ### 📍 Locate Us (Map)
-![Locate Us Screenshot](attachments/SNiGj7VTgYtK9pVCb6JUa.png)
+
 
 
 ### Exception page
