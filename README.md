@@ -63,6 +63,17 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver <br>
 spring.jpa.hibernate.ddl-auto=update <br>
 server.port=2330[Optional] <br>
 
+# 🌱 Project Screenshots
+
+### 🏠 Homepage
+![Homepage Screenshot](attachments/Tj2nVNd6i7vM5uM76ijjD.jpeg)
+
+### 🔑 Login Page
+![Login Page Screenshot](attachments/4tHAKJYhRfB6vugkTUtKg.png)
+
+### 📍 Locate Us (Map)
+![Locate Us Screenshot](attachments/SNiGj7VTgYtK9pVCb6JUa.png)
+
 
 ### Exception page
 
